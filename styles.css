@@ -16,3 +16,18 @@ background-color: beige;
     height:50px;
     border-radius: 50%; 
 }
+
+.logo{
+
+position: absolute;
+top: 50%; 
+left: 5%;
+transform: translateY(-50%);
+
+}
+
+
+
+
+
+
